@@ -4,15 +4,6 @@
 
 ---
 
-## 專案結構
-GomokuProject/
-├── GomokuServer.java         # 伺服器端程式碼，負責玩家配對與訊息轉發
-├── window.java               # 客戶端 GUI，玩家下棋介面與網路通訊
-├── GomokuGame.java           # 遊戲邏輯：棋盤儲存、勝負判定等
-├── README.md                 # 使用說明
-
----
-
 ## 功能特色
 
 - 支援兩位玩家連線對戰
